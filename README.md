@@ -1,5 +1,7 @@
 ## README
-### Modeling Stock Price Movements Using Stochastic Processes
+#### PhDAI 730 - Assignment 2: Stochastic Processes Problem Set
+
+#### *Modeling Stock Price Movements Using Stochastic Processes*
 
 ### Step 1: Install Dataset
 
